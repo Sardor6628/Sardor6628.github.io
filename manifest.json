@@ -1,6 +1,6 @@
 {
-    "name": "websample",
-    "short_name": "websample",
+    "name": "block_http_request",
+    "short_name": "block_http_request",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
